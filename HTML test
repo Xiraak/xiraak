@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <title>Sky Hook</title>
+    <link rel="stylesheet" href="estilo.css">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#">Notícias</a></li>
+          <li><a href="#">Curiosidades</a></li>
+          <li><a href="#">Estatísticas</a></li>
+          <li><a href="#">Resultados</a></li>
+          <li><a href="#">Scout</a></li>
+        </ul>
+      </nav>
+    </header>
+    
+    <section>
+      <!-- Conteúdo da página aqui -->
+    </section>
+    
+    <footer>
+      <p>&copy; Ano do site - Todos os direitos reservados</p>
+    </footer>
+  </body>
+</html>
