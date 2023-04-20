@@ -4,7 +4,7 @@
 	<title>Sky Hook</title>
 	<style>
 		body {
-			background-image: url('bola-de-basquete.jpg');
+			background-image: url('https://img.freepik.com/fotos-premium/detalhe-aproximado-do-fundo-de-textura-de-bola-de-basquete_770678-3.jpg?w=2000');
 			background-repeat: repeat;
 			color: white;
 			font-family: Arial, sans-serif;
